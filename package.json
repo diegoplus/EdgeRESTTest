@@ -1,0 +1,18 @@
+{
+  "name": "EdgeRESTTest",
+  "version": "0.2.5",
+  "description": "Basic REST API test with SQLite",
+  "author": "Diego Ayala https://github.com/diegoplus",
+  "dependencies": {
+    "bluebird": "*",
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "sqlite": "*"    
+  },
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/diegoplus/EdgeRESTTest/issues"
+  },
+  "repository": "https://github.com/diegoplus/EdgeRESTTest"
+}
